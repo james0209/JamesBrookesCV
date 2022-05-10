@@ -1,0 +1,3 @@
+[submodule "latexdevcontainer"]
+	path = latexdevcontainer
+	url = https://github.com/qdm12/latexdevcontainer
